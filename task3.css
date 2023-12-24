@@ -1,0 +1,20 @@
+div{
+    text-align: center;
+    color: white;
+}
+ol{
+    font-size: larger;
+    color: white;
+}
+h1,h2,p,ul{
+    color: white;
+}
+table{
+    background-color: aliceblue;
+    color: black;
+    width: 350px;
+    text-align: left;
+}
+.c{
+    text-align: center;
+}
